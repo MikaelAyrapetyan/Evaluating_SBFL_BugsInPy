@@ -1,0 +1,1 @@
+['tests/test_pysnooper.py::test_string_io', 'tests/test_pysnooper.py::test_depth', 'tests/test_pysnooper.py::test_method_and_prefix']

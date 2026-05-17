@@ -1,0 +1,1 @@
+['tests/rules/test_mkdir_p.py::test_get_new_command[command0-mkdir -p foo/bar/baz]']

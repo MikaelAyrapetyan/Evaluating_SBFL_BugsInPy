@@ -1,0 +1,1 @@
+['tests/rules/test_open.py::test_get_new_command[command6-xdg-open http://foo.io]', 'tests/rules/test_open.py::test_get_new_command[command7-gnome-open http://foo.io]', 'tests/rules/test_open.py::test_get_new_command[command8-kde-open http://foo.io]']

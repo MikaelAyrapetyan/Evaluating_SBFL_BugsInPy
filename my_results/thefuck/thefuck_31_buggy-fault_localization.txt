@@ -1,0 +1,1064 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\tests\rules\test_git_diff_staged.py
+Line: 26
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\tests\rules\conftest.py
+Line: 6
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\rules\git_diff_staged.py
+Line: 13
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 81
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 82
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 96
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 3
+Tarantula_exam num: 0.018041
+Ochiai_rank num: 3
+Ochiai_exam num: 0.018041
+Op2_rank num: 3
+Op2_exam num: 0.018041
+Barinel_rank num: 3
+Barinel_exam num: 0.018041
+Dstar_rank num: 3
+Dstar_exam num: 0.018041
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 103
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 105
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 106
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\utils.py
+Line: 113
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 194
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 160
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 107
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 76
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 15
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 1
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 6
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 7
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 8
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 9
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 10
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 11
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 12
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 17
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 20
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 28
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 32
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 36
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 39
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 42
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 45
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 52
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 60
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 72
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 77
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 81
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 87
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 95
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 99
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 102
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 109
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 116
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 131
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 138
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 146
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 150
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 153
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 156
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 161
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 166
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 172
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 180
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 184
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 187
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 195
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 220
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 200
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 204
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 212
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 216
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 221
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 228
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 222
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 223
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 224
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 225
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 236
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 240
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 244
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 248
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 252
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 256
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 260
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 261
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 265
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\thefuck\thefuck\shells.py
+Line: 266
+TOTAL_NUM_ALL: 194
+Tarantula_rank num: 41
+Tarantula_exam num: 0.213918
+Ochiai_rank num: 41
+Ochiai_exam num: 0.213918
+Op2_rank num: 41
+Op2_exam num: 0.213918
+Barinel_rank num: 41
+Barinel_exam num: 0.213918
+Dstar_rank num: 41
+Dstar_exam num: 0.213918

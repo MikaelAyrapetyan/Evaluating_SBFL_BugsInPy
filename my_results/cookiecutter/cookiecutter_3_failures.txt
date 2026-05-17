@@ -1,0 +1,1 @@
+['tests/test_read_user_choice.py::test_click_invocation[1-hello]', 'tests/test_read_user_choice.py::test_click_invocation[2-world]', 'tests/test_read_user_choice.py::test_click_invocation[3-foo]', 'tests/test_read_user_choice.py::test_click_invocation[4-bar]']

@@ -1,0 +1,3024 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\scheduler_test.py
+Line: 81
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 112
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 108
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 103
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 97
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 92
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 96
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 102
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 98
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 99
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 100
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 109
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 110
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 111
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 113
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 114
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 115
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 118
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 116
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 117
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 119
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\test\helpers.py
+Line: 121
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 219
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 205
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 192
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 80
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 58
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 18
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 38
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 39
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 40
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 42
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 44
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 45
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 46
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 48
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 49
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 50
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 51
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 52
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 53
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 55
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 59
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 63
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 65
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 66
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 79
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 89
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 81
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 82
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 83
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 84
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 93
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 98
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 102
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 112
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 116
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 134
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 151
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 157
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 170
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 177
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 184
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 193
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 196
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 197
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 198
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 199
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 201
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 206
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 209
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 210
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 211
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 212
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 213
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 215
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 220
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 243
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 225
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 226
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 227
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 228
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 229
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 230
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 231
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 234
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 232
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 233
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 235
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 239
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 236
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\db_task_history.py
+Line: 237
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\six.py
+Line: 563
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 528
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 524
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 240
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 226
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 200
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 197
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 181
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 168
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 158
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 160
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 161
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 162
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 165
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 163
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 169
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 170
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 172
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 182
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 186
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 187
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 188
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 190
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 189
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 191
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 194
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 192
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 193
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 201
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\parameter.py
+Line: 204
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 302
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 271
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 270
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 256
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 248
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 245
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 240
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 216
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 205
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 192
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 183
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 175
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 184
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 185
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 186
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 187
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 189
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 193
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 207
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 209
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 213
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 217
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 224
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 225
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 232
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 227
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 229
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 233
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 238
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 234
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 236
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 243
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 249
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 252
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 253
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 257
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 261
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 262
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 263
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 264
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 266
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 267
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 268
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 272
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 274
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 276
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 303
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 304
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 305
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 308
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task.py
+Line: 306
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\cmdline_parser.py
+Line: 40
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 527
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 293
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 294
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 295
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 296
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 528
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 530
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 532
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 533
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\scheduler.py
+Line: 534
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\interface.py
+Line: 134
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 128
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 83
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 82
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 85
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 87
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 90
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 91
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 93
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 95
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 96
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 101
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 102
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 104
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\task_register.py
+Line: 129
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 131
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 121
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 103
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 92
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 76
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 66
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 67
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 71
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 68
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 69
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 77
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 82
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 93
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 94
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 95
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 96
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\luigi\luigi\configuration.py
+Line: 124
+TOTAL_NUM_ALL: 1829
+Tarantula_rank num: 108
+Tarantula_exam num: 0.059322
+Ochiai_rank num: 108
+Ochiai_exam num: 0.059322
+Op2_rank num: 108
+Op2_exam num: 0.059322
+Barinel_rank num: 108
+Barinel_exam num: 0.059322
+Dstar_rank num: 108
+Dstar_exam num: 0.059322

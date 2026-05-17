@@ -1,0 +1,1 @@
+['tests/test_pysnooper.py::test_custom_repr', 'tests/test_pysnooper.py::test_custom_repr_single', 'tests/test_pysnooper.py::test_disable']

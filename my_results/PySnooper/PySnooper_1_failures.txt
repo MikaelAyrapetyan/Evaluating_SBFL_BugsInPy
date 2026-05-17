@@ -1,0 +1,1 @@
+['tests/test_chinese.py::test_chinese', 'tests/test_pysnooper.py::test_multi_thread_info', 'tests/test_pysnooper.py::test_indentation', 'tests/test_pysnooper.py::test_exception']

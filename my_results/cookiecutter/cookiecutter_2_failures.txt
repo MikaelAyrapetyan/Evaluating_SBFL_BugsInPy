@@ -1,0 +1,1 @@
+['tests/test_hooks.py::TestFindHooks::test_find_hook', 'tests/test_hooks.py::TestExternalHooks::test_run_hook']

@@ -1,0 +1,3500 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 353
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 354
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 355
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 356
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 357
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 360
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 361
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 362
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 363
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 366
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 367
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 370
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 371
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 373
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 394
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 395
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 396
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 397
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 398
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 399
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 400
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 403
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 405
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 409
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 410
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 413
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 411
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 414
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 422
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 415
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 416
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 417
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 418
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 419
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 420
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 426
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 440
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 450
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 451
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 452
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 453
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 454
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 455
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 457
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 458
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 460
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 461
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 471
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 462
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 464
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 466
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 469
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 477
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 492
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 493
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 494
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 507
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 508
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 537
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 514
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 515
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 519
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 532
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 536
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 545
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 546
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 547
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 550
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 402
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 423
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 424
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 459
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 509
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 516
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 517
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 520
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\tokenize.py
+Line: 533
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 114
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 42
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 33
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 34
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 35
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 36
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 37
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 43
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 44
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 45
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 46
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 47
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 48
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 49
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 50
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 51
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 52
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 61
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 53
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 54
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 58
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 59
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 60
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 62
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 68
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 63
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 64
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 65
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 66
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 67
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 69
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 70
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 71
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 72
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 73
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 74
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 78
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 75
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 76
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 77
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 81
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 85
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 86
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 87
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 88
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 89
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 90
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 91
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\driver.py
+Line: 115
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 416
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 36
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 37
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 38
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 39
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 40
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 41
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 42
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 43
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 44
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 45
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 51
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 46
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 47
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 50
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 48
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 54
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\tests\test_black.py
+Line: 417
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 418
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 350
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 318
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 220
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 51
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 52
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 221
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 222
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 223
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 224
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 226
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 225
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 227
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 229
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 232
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 319
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 351
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 352
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 353
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 354
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 355
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 357
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 419
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 422
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 426
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 423
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pytree.py
+Line: 424
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 663
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 610
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 664
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 666
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 667
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 681
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 668
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 669
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 672
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 673
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 674
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 675
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 676
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\black.py
+Line: 679
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 193
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 186
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 177
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 163
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 116
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 102
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 86
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 20
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 21
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 22
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 23
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 24
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 25
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 87
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 103
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 107
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 108
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 109
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 110
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 111
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 119
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 120
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 121
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 123
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 124
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 150
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 125
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 127
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 141
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 129
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 131
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 132
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 133
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 140
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 134
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 137
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 138
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 143
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 144
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 145
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 147
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 148
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 152
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 159
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 153
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 165
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 170
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 167
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 168
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 169
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 171
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 173
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 178
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 179
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 180
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 181
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 182
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 187
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 188
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 189
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 194
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 195
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 196
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 197
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\black\blib2to3\pgen2\parse.py
+Line: 198
+TOTAL_NUM_ALL: 1603
+Tarantula_rank num: 125
+Tarantula_exam num: 0.078291
+Ochiai_rank num: 125
+Ochiai_exam num: 0.078291
+Op2_rank num: 125
+Op2_exam num: 0.078291
+Barinel_rank num: 125
+Barinel_exam num: 0.078291
+Dstar_rank num: 125
+Dstar_exam num: 0.078291

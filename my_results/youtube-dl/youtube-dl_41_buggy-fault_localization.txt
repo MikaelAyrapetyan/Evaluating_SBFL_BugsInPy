@@ -1,0 +1,434 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 757
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 759
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 761
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 763
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 762
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 777
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 764
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 765
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 766
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 767
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 768
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 769
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 770
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 771
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 772
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 773
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 774
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 775
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 778
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 782
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 779
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 780
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 781
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 783
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 786
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\youtube_dl\utils.py
+Line: 784
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\test\test_utils.py
+Line: 126
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\test\test_utils.py
+Line: 127
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\test\test_utils.py
+Line: 128
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\test\test_utils.py
+Line: 129
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\youtube-dl\test\test_utils.py
+Line: 130
+TOTAL_NUM_ALL: 5728
+Tarantula_rank num: 16
+Tarantula_exam num: 0.002793
+Ochiai_rank num: 16
+Ochiai_exam num: 0.002793
+Op2_rank num: 16
+Op2_exam num: 0.002793
+Barinel_rank num: 16
+Barinel_exam num: 0.002793
+Dstar_rank num: 16
+Dstar_exam num: 0.002793

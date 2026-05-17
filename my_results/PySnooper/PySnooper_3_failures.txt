@@ -1,0 +1,1 @@
+['tests/test_pysnooper.py::test_variables', 'tests/test_pysnooper.py::test_file_output']

@@ -1,0 +1,630 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 63
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 64
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 65
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 66
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 67
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 69
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\cookiecutter\utils.py
+Line: 38
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 95
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 21
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 22
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 23
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 24
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 25
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 27
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 28
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 30
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 31
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 32
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 33
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 34
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 35
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 36
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 37
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 39
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 40
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 41
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 42
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 43
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 44
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 45
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 57
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 172
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 173
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 175
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 176
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 177
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 179
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 180
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 98
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 100
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 102
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 104
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 106
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 108
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\cookiecutter\tests\test_hooks.py
+Line: 110
+TOTAL_NUM_ALL: 134
+Tarantula_rank num: 23
+Tarantula_exam num: 0.171642
+Ochiai_rank num: 23
+Ochiai_exam num: 0.171642
+Op2_rank num: 23
+Op2_exam num: 0.171642
+Barinel_rank num: 23
+Barinel_exam num: 0.171642
+Dstar_rank num: 23
+Dstar_exam num: 0.171642

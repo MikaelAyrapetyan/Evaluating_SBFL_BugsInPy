@@ -1,0 +1,2716 @@
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 44
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 45
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 51
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 48
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 52
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 57
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 58
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 59
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 60
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 61
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 62
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 63
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 65
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 64
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 66
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 67
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 68
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 69
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 70
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 71
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 72
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 73
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 74
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 75
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 76
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 77
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 78
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 79
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 80
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 176
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 177
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 178
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 179
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 183
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 19
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 20
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 21
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 25
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 26
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 27
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 28
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 29
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 31
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 30
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 32
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 33
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 34
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 35
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 36
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 37
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 38
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 85
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 87
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 91
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 95
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 99
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 100
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 104
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 105
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 106
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 107
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 108
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 110
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 109
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 111
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 112
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 113
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 115
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 116
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 117
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 118
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 120
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 121
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 122
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 123
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 125
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 126
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 127
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 129
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 130
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 131
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 133
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 134
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 135
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 144
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 142
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 143
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 152
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 146
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 147
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 154
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 155
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 156
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 157
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 158
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 159
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 160
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 161
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 163
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 162
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 171
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 164
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 165
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 166
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 167
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 168
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\test_pysnooper.py
+Line: 169
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 68
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 65
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 20
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 33
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 66
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 67
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 74
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 69
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 70
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 72
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 71
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 21
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 39
+Tarantula_exam num: 0.132653
+Ochiai_rank num: 60
+Ochiai_exam num: 0.204082
+Op2_rank num: 60
+Op2_exam num: 0.204082
+Barinel_rank num: 39
+Barinel_exam num: 0.132653
+Dstar_rank num: 60
+Dstar_exam num: 0.204082
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 24
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 62
+Tarantula_exam num: 0.212585
+Ochiai_rank num: 62
+Ochiai_exam num: 0.212585
+Op2_rank num: 62
+Op2_exam num: 0.212585
+Barinel_rank num: 62
+Barinel_exam num: 0.212585
+Dstar_rank num: 62
+Dstar_exam num: 0.212585
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 25
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 29
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\pysnooper.py
+Line: 30
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 130
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 73
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 25
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 26
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 62
+Tarantula_exam num: 0.212585
+Ochiai_rank num: 62
+Ochiai_exam num: 0.212585
+Op2_rank num: 62
+Op2_exam num: 0.212585
+Barinel_rank num: 62
+Barinel_exam num: 0.212585
+Dstar_rank num: 62
+Dstar_exam num: 0.212585
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 27
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 28
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 62
+Tarantula_exam num: 0.212585
+Ochiai_rank num: 62
+Ochiai_exam num: 0.212585
+Op2_rank num: 62
+Op2_exam num: 0.212585
+Barinel_rank num: 62
+Barinel_exam num: 0.212585
+Dstar_rank num: 62
+Dstar_exam num: 0.212585
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 29
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 31
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 32
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 33
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 34
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 36
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 75
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 76
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 62
+Tarantula_exam num: 0.212585
+Ochiai_rank num: 62
+Ochiai_exam num: 0.212585
+Op2_rank num: 62
+Op2_exam num: 0.212585
+Barinel_rank num: 62
+Barinel_exam num: 0.212585
+Dstar_rank num: 62
+Dstar_exam num: 0.212585
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 78
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 79
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 131
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 71
+Tarantula_exam num: 0.243197
+Ochiai_rank num: 71
+Ochiai_exam num: 0.243197
+Op2_rank num: 71
+Op2_exam num: 0.243197
+Barinel_rank num: 71
+Barinel_exam num: 0.243197
+Dstar_rank num: 71
+Dstar_exam num: 0.243197
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 132
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 133
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 134
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 19
+Tarantula_exam num: 0.066327
+Ochiai_rank num: 19
+Ochiai_exam num: 0.066327
+Op2_rank num: 40
+Op2_exam num: 0.137755
+Barinel_rank num: 19
+Barinel_exam num: 0.066327
+Dstar_rank num: 40
+Dstar_exam num: 0.137755
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 101
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 93
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 90
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 63
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 56
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 48
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 40
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 37
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 41
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 49
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 50
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 51
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 57
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 58
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 64
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 66
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 67
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 68
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 94
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 95
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 98
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 102
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 104
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 105
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 136
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 141
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 142
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 42
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 45
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 53
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 137
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\tests\utils.py
+Line: 138
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 117
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 101
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 102
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 103
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 104
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 105
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 106
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 107
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 108
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\tracer.py
+Line: 118
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 50
+Tarantula_exam num: 0.170068
+Ochiai_rank num: 49
+Ochiai_exam num: 0.166667
+Op2_rank num: 11
+Op2_exam num: 0.037415
+Barinel_rank num: 50
+Barinel_exam num: 0.170068
+Dstar_rank num: 11
+Dstar_exam num: 0.037415
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 29
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 10
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 11
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 12
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 19
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 13
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 14
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 16
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
+___________________
+File: C:\Users\USER\PycharmProjects\bugsinpy-work\PySnooper\pysnooper\utils.py
+Line: 30
+TOTAL_NUM_ALL: 294
+Tarantula_rank num: 136
+Tarantula_exam num: 0.464286
+Ochiai_rank num: 136
+Ochiai_exam num: 0.464286
+Op2_rank num: 136
+Op2_exam num: 0.464286
+Barinel_rank num: 136
+Barinel_exam num: 0.464286
+Dstar_rank num: 136
+Dstar_exam num: 0.464286
